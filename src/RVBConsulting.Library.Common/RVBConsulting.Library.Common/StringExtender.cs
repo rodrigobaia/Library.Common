@@ -131,7 +131,7 @@ namespace RVBConsulting.Library.Common
 
             i = strDados.LastIndexOf(strFind);
 
-            if (i <= 0) throw new Exception(string.Format("Não foi encontrador a string [{0}];", strFind));
+            if (i <= 0) throw new Exception(string.Format("Não foi possível encontrar a string [{0}];", strFind));
 
             results = strDados.Substring(i + 1);
 
