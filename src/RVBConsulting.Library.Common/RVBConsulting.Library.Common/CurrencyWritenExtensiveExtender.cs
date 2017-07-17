@@ -164,8 +164,24 @@ namespace RVBConsulting.Library.Common
         /// <summary>
         /// Número escrito por extenso
         /// </summary>
-        /// <param name="value"></param>
-        /// <returns></returns>
+        /// <example>
+        /// <code>
+        /// using RVBConsulting.Library.Common;
+        /// 
+        /// public class ExemploCurrencyWritenExtensiveExtender
+        /// {
+        ///     public void ExtensiceNumberTeste()
+        ///     {
+        ///         var valor = 1593.32M;              
+        ///         var valorExtenso = valor.ExtensiceNumber(); 
+        ///         
+        ///         Console.Writeline(valorExtenso);
+        ///     }
+        /// }
+        /// </code>
+        /// </example>
+        /// <param name="value">Valor a ser escrito por extenso</param>
+        /// <returns>Retorna o valor por extenso</returns>
         public static string ExtensiceNumber(this decimal value)
         {
             string strRetorno = "";

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Base64 enumeration member" Url="html/T_RVBConsulting_Library_Common_CryptProvider.htm" />
+  <HelpKINode Title="CompleteText method" Url="html/M_RVBConsulting_Library_Common_StringExtender_CompleteText.htm" />
+  <HelpKINode Title="CryptographyExtender class">
+    <HelpKINode Title="CryptographyExtender Class" Url="html/T_RVBConsulting_Library_Common_CryptographyExtender.htm" />
+    <HelpKINode Title="about CryptographyExtender class" Url="html/T_RVBConsulting_Library_Common_CryptographyExtender.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_RVBConsulting_Library_Common_CryptographyExtender.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CryptographyExtender.Decrypt method" Url="html/M_RVBConsulting_Library_Common_CryptographyExtender_Decrypt.htm" />
+  <HelpKINode Title="CryptographyExtender.Encrypt method" Url="html/M_RVBConsulting_Library_Common_CryptographyExtender_Encrypt.htm" />
+  <HelpKINode Title="CryptographyExtender.EncryptHash method" Url="html/M_RVBConsulting_Library_Common_CryptographyExtender_EncryptHash.htm" />
+  <HelpKINode Title="CryptProvider enumeration" Url="html/T_RVBConsulting_Library_Common_CryptProvider.htm" />
+  <HelpKINode Title="CurrencyWritenExtensiveExtender class">
+    <HelpKINode Title="CurrencyWritenExtensiveExtender Class" Url="html/T_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender.htm" />
+    <HelpKINode Title="about CurrencyWritenExtensiveExtender class" Url="html/T_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CurrencyWritenExtensiveExtender.ExtensiceNumber method" Url="html/M_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender_ExtensiceNumber.htm" />
+  <HelpKINode Title="DateTimeExtender class">
+    <HelpKINode Title="DateTimeExtender Class" Url="html/T_RVBConsulting_Library_Common_DateTimeExtender.htm" />
+    <HelpKINode Title="about DateTimeExtender class" Url="html/T_RVBConsulting_Library_Common_DateTimeExtender.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_RVBConsulting_Library_Common_DateTimeExtender.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateTimeExtender.GetExtensiceMonth method" Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_GetExtensiceMonth.htm" />
+  <HelpKINode Title="DateTimeExtender.GetSalutation method" Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_GetSalutation.htm" />
+  <HelpKINode Title="DateTimeExtender.ReverseDate method" Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_ReverseDate.htm" />
+  <HelpKINode Title="DateTimeExtender.ToStringTimer method" Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_ToStringTimer.htm" />
+  <HelpKINode Title="Decrypt method" Url="html/M_RVBConsulting_Library_Common_CryptographyExtender_Decrypt.htm" />
+  <HelpKINode Title="DES enumeration member" Url="html/T_RVBConsulting_Library_Common_CryptProvider.htm" />
+  <HelpKINode Title="DetailsNetworkExtender class">
+    <HelpKINode Title="DetailsNetworkExtender Class" Url="html/T_RVBConsulting_Library_Common_DetailsNetworkExtender.htm" />
+    <HelpKINode Title="about DetailsNetworkExtender class" Url="html/T_RVBConsulting_Library_Common_DetailsNetworkExtender.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_RVBConsulting_Library_Common_DetailsNetworkExtender.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DetailsNetworkExtender.IpLocal method" Url="html/M_RVBConsulting_Library_Common_DetailsNetworkExtender_IpLocal.htm" />
+  <HelpKINode Title="DetailsNetworkExtender.MacAddress method" Url="html/M_RVBConsulting_Library_Common_DetailsNetworkExtender_MacAddress.htm" />
+  <HelpKINode Title="DetailsTerminal class">
+    <HelpKINode Title="DetailsTerminal Class" Url="html/T_RVBConsulting_Library_Common_DetailsTerminal.htm" />
+    <HelpKINode Title="about DetailsTerminal class" Url="html/T_RVBConsulting_Library_Common_DetailsTerminal.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_RVBConsulting_Library_Common_DetailsTerminal.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DetailsTerminal.DriveRoot property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_DriveRoot.htm" />
+  <HelpKINode Title="DetailsTerminal.HardDisk property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_HardDisk.htm" />
+  <HelpKINode Title="DetailsTerminal.Network property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_Network.htm" />
+  <HelpKINode Title="DetailsTerminal.OperationalSystem property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_OperationalSystem.htm" />
+  <HelpKINode Title="DetailsTerminal.PathInstall property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_PathInstall.htm" />
+  <HelpKINode Title="DetailsTerminal.ServicePack property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_ServicePack.htm" />
+  <HelpKINode Title="DetailsTerminal.Version property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_Version.htm" />
+  <HelpKINode Title="DetailsTerminal.VersionEx property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_VersionEx.htm" />
+  <HelpKINode Title="Drive property" Url="html/P_RVBConsulting_Library_Common_HardDisk_Drive.htm" />
+  <HelpKINode Title="DriveRoot property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_DriveRoot.htm" />
+  <HelpKINode Title="Encrypt method" Url="html/M_RVBConsulting_Library_Common_CryptographyExtender_Encrypt.htm" />
+  <HelpKINode Title="EncryptHash method" Url="html/M_RVBConsulting_Library_Common_CryptographyExtender_EncryptHash.htm" />
+  <HelpKINode Title="EnumExtender class">
+    <HelpKINode Title="EnumExtender Class" Url="html/T_RVBConsulting_Library_Common_EnumExtender.htm" />
+    <HelpKINode Title="about EnumExtender class" Url="html/T_RVBConsulting_Library_Common_EnumExtender.htm" />
+    <HelpKINode Title="constructor" Url="html/M_RVBConsulting_Library_Common_EnumExtender__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_RVBConsulting_Library_Common_EnumExtender.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumExtender.EnumExtender constructor" Url="html/M_RVBConsulting_Library_Common_EnumExtender__ctor.htm" />
+  <HelpKINode Title="EnumExtender.GetDescription method" Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetDescription.htm" />
+  <HelpKINode Title="EnumExtender.GetDescriptions method" Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetDescriptions.htm" />
+  <HelpKINode Title="EnumExtender.GetExtendedValue method" Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetExtendedValue.htm" />
+  <HelpKINode Title="EnumExtender.GetExtendedValues method" Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetExtendedValues.htm" />
+  <HelpKINode Title="EnumExtenderItemAttribute class">
+    <HelpKINode Title="EnumExtenderItemAttribute Class" Url="html/T_RVBConsulting_Library_Common_EnumExtenderItemAttribute.htm" />
+    <HelpKINode Title="about EnumExtenderItemAttribute class" Url="html/T_RVBConsulting_Library_Common_EnumExtenderItemAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_RVBConsulting_Library_Common_EnumExtenderItemAttribute__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_RVBConsulting_Library_Common_EnumExtenderItemAttribute.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_RVBConsulting_Library_Common_EnumExtenderItemAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumExtenderItemAttribute.EnumExtenderItemAttribute constructor" Url="html/Overload_RVBConsulting_Library_Common_EnumExtenderItemAttribute__ctor.htm" />
+  <HelpKINode Title="ExtensiceNumber method" Url="html/M_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender_ExtensiceNumber.htm" />
+  <HelpKINode Title="GetDescription method" Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetDescription.htm" />
+  <HelpKINode Title="GetDescriptions method" Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetDescriptions.htm" />
+  <HelpKINode Title="GetExtendedValue method" Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetExtendedValue.htm" />
+  <HelpKINode Title="GetExtendedValues method" Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetExtendedValues.htm" />
+  <HelpKINode Title="GetExtensiceMonth method" Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_GetExtensiceMonth.htm" />
+  <HelpKINode Title="GetSalutation method" Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_GetSalutation.htm" />
+  <HelpKINode Title="HardDisk class">
+    <HelpKINode Title="HardDisk Class" Url="html/T_RVBConsulting_Library_Common_HardDisk.htm" />
+    <HelpKINode Title="about HardDisk class" Url="html/T_RVBConsulting_Library_Common_HardDisk.htm" />
+    <HelpKINode Title="constructor" Url="html/M_RVBConsulting_Library_Common_HardDisk__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_RVBConsulting_Library_Common_HardDisk.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_RVBConsulting_Library_Common_HardDisk.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HardDisk property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_HardDisk.htm" />
+  <HelpKINode Title="HardDisk.Drive property" Url="html/P_RVBConsulting_Library_Common_HardDisk_Drive.htm" />
+  <HelpKINode Title="HardDisk.HardDisk constructor" Url="html/M_RVBConsulting_Library_Common_HardDisk__ctor.htm" />
+  <HelpKINode Title="HardDisk.Modelo property" Url="html/P_RVBConsulting_Library_Common_HardDisk_Modelo.htm" />
+  <HelpKINode Title="HardDisk.Serial property" Url="html/P_RVBConsulting_Library_Common_HardDisk_Serial.htm" />
+  <HelpKINode Title="HardDisk.Tipo property" Url="html/P_RVBConsulting_Library_Common_HardDisk_Tipo.htm" />
+  <HelpKINode Title="HardDisk.Volume property" Url="html/P_RVBConsulting_Library_Common_HardDisk_Volume.htm" />
+  <HelpKINode Title="IpLocal method" Url="html/M_RVBConsulting_Library_Common_DetailsNetworkExtender_IpLocal.htm" />
+  <HelpKINode Title="Left method" Url="html/M_RVBConsulting_Library_Common_StringExtender_Left.htm" />
+  <HelpKINode Title="MacAddress method" Url="html/M_RVBConsulting_Library_Common_DetailsNetworkExtender_MacAddress.htm" />
+  <HelpKINode Title="Mid method" Url="html/Overload_RVBConsulting_Library_Common_StringExtender_Mid.htm" />
+  <HelpKINode Title="Modelo property" Url="html/P_RVBConsulting_Library_Common_HardDisk_Modelo.htm" />
+  <HelpKINode Title="Network property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_Network.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/T_RVBConsulting_Library_Common_CryptProvider.htm" />
+  <HelpKINode Title="OperationalSystem property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_OperationalSystem.htm" />
+  <HelpKINode Title="PathInstall property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_PathInstall.htm" />
+  <HelpKINode Title="PegaPrimeiraSentenca method" Url="html/Overload_RVBConsulting_Library_Common_StringExtender_PegaPrimeiraSentenca.htm" />
+  <HelpKINode Title="PegaUltimaString method" Url="html/M_RVBConsulting_Library_Common_StringExtender_PegaUltimaString.htm" />
+  <HelpKINode Title="RC2 enumeration member" Url="html/T_RVBConsulting_Library_Common_CryptProvider.htm" />
+  <HelpKINode Title="ReverseDate method" Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_ReverseDate.htm" />
+  <HelpKINode Title="Right method" Url="html/M_RVBConsulting_Library_Common_StringExtender_Right.htm" />
+  <HelpKINode Title="Rijndael enumeration member" Url="html/T_RVBConsulting_Library_Common_CryptProvider.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common namespace" Url="html/N_RVBConsulting_Library_Common.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common.CryptographyExtender class" Url="html/T_RVBConsulting_Library_Common_CryptographyExtender.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common.CryptProvider enumeration" Url="html/T_RVBConsulting_Library_Common_CryptProvider.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common.CurrencyWritenExtensiveExtender class" Url="html/T_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common.DateTimeExtender class" Url="html/T_RVBConsulting_Library_Common_DateTimeExtender.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common.DetailsNetworkExtender class" Url="html/T_RVBConsulting_Library_Common_DetailsNetworkExtender.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common.DetailsTerminal class" Url="html/T_RVBConsulting_Library_Common_DetailsTerminal.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common.EnumExtender class" Url="html/T_RVBConsulting_Library_Common_EnumExtender.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common.EnumExtenderItemAttribute class" Url="html/T_RVBConsulting_Library_Common_EnumExtenderItemAttribute.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common.HardDisk class" Url="html/T_RVBConsulting_Library_Common_HardDisk.htm" />
+  <HelpKINode Title="RVBConsulting.Library.Common.StringExtender class" Url="html/T_RVBConsulting_Library_Common_StringExtender.htm" />
+  <HelpKINode Title="Serial property" Url="html/P_RVBConsulting_Library_Common_HardDisk_Serial.htm" />
+  <HelpKINode Title="ServicePack property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_ServicePack.htm" />
+  <HelpKINode Title="StringExtender class">
+    <HelpKINode Title="StringExtender Class" Url="html/T_RVBConsulting_Library_Common_StringExtender.htm" />
+    <HelpKINode Title="about StringExtender class" Url="html/T_RVBConsulting_Library_Common_StringExtender.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_RVBConsulting_Library_Common_StringExtender.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringExtender.CompleteText method" Url="html/M_RVBConsulting_Library_Common_StringExtender_CompleteText.htm" />
+  <HelpKINode Title="StringExtender.Left method" Url="html/M_RVBConsulting_Library_Common_StringExtender_Left.htm" />
+  <HelpKINode Title="StringExtender.Mid method" Url="html/Overload_RVBConsulting_Library_Common_StringExtender_Mid.htm" />
+  <HelpKINode Title="StringExtender.PegaPrimeiraSentenca method" Url="html/Overload_RVBConsulting_Library_Common_StringExtender_PegaPrimeiraSentenca.htm" />
+  <HelpKINode Title="StringExtender.PegaUltimaString method" Url="html/M_RVBConsulting_Library_Common_StringExtender_PegaUltimaString.htm" />
+  <HelpKINode Title="StringExtender.Right method" Url="html/M_RVBConsulting_Library_Common_StringExtender_Right.htm" />
+  <HelpKINode Title="StringExtender.TiraUltimaString method" Url="html/Overload_RVBConsulting_Library_Common_StringExtender_TiraUltimaString.htm" />
+  <HelpKINode Title="Tipo property" Url="html/P_RVBConsulting_Library_Common_HardDisk_Tipo.htm" />
+  <HelpKINode Title="TiraUltimaString method" Url="html/Overload_RVBConsulting_Library_Common_StringExtender_TiraUltimaString.htm" />
+  <HelpKINode Title="ToStringTimer method" Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_ToStringTimer.htm" />
+  <HelpKINode Title="TripleDES enumeration member" Url="html/T_RVBConsulting_Library_Common_CryptProvider.htm" />
+  <HelpKINode Title="Version property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_Version.htm" />
+  <HelpKINode Title="VersionEx property" Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_VersionEx.htm" />
+  <HelpKINode Title="Volume property" Url="html/P_RVBConsulting_Library_Common_HardDisk_Volume.htm" />
+</HelpKI>

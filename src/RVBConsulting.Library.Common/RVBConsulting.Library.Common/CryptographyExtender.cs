@@ -13,7 +13,7 @@ namespace RVBConsulting.Library.Common
     public enum CryptProvider
     {
         /// <summary>
-        /// 
+        /// Valor Inicial
         /// </summary>
         None = 0,
 
@@ -88,31 +88,76 @@ namespace RVBConsulting.Library.Common
         /// <summary>
         /// Encripta o dado solicitado.
         /// </summary>
-        /// <param name="texto">Texto a ser criptografado.</param>
+        /// <example>
+        /// <code>
+        /// using RVBConsulting.Library.Common;
+        /// 
+        /// public class ExemploCryptographyExtender
+        /// {
+        ///     public void EncryptTest()
+        ///     {
+        ///         var text = "RVBConsulting.Library.Common".Encrypt();        
+        ///         
+        ///         Console.Writeline(text);
+        ///     }
+        /// }
+        /// </code>
+        /// </example>
+        /// <param name="text">Texto a ser criptografado.</param>
         /// <returns>Texto criptografado.</returns>
-        public static string Encrypt(this string texto)
+        public static string Encrypt(this string text)
         {
-            return EncryptImpl(texto);
+            return EncryptImpl(text);
         }
 
         /// <summary>
         /// Desencripta o dado solicitado.
         /// </summary>
-        /// <param name="textoCriptografado">Texto a ser descriptografado.</param>
+        /// <example>
+        /// <code>
+        /// using RVBConsulting.Library.Common;
+        /// 
+        /// public class ExemploCryptographyExtender
+        /// {
+        ///     public void DecryptTest()
+        ///     {
+        ///         var text = "hU/JWyZnZn1aIgyUWoBtu/NsqU8Dlb3MmZR0E37QfiY=".Decrypt();        
+        ///         
+        ///         Console.Writeline(text);
+        ///     }
+        /// }
+        /// </code>
+        /// </example>        
+        /// <param name="textEncrypt">Texto a ser descriptografado.</param>
         /// <returns>Texto descriptografado.</returns>
-        public static string Decrypt(this string textoCriptografado)
+        public static string Decrypt(this string textEncrypt)
         {
-            return DecryptImpl(textoCriptografado);
+            return DecryptImpl(textEncrypt);
         }
 
         /// <summary>
         /// Segurança Hash MD5
         /// </summary>
-        /// <param name="input">valor a ser criptografado</param>
+        /// <example>
+        /// <code>
+        /// using RVBConsulting.Library.Common;
+        /// 
+        /// public class ExemploCryptographyExtender
+        /// {
+        ///     public void EncryptHashTest()
+        ///     {
+        ///         var text = "RVBConsulting.Library.Common".EncryptHash();        
+        ///         
+        ///         Console.Writeline(text);
+        ///     }
+        /// }
+        /// </code>
+        /// </example>       
+        /// <param name="text">valor a ser criptografado</param>
         /// <returns>valor criptografado</returns>
-        public static string EncryptHash(this string input)
+        public static string EncryptHash(this string text)
         {
-            return getMD5Hash(input).ToLower();
+            return getMD5Hash(text).ToLower();
         }
 
         #endregion

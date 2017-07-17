@@ -5,7 +5,7 @@ using System.Net;
 namespace RVBConsulting.Library.Common
 {
     /// <summary>
-	/// TODO: Update summary.
+	/// Detalhes da Rede
 	/// </summary>
 	public static class DetailsNetworkExtender
     {

@@ -3,21 +3,35 @@
 namespace RVBConsulting.Library.Common
 {
     /// <summary>
-	/// TODO: Update summary.
+	/// Classe extendida para os objetos DateTime
 	/// </summary>
 	public static class DateTimeExtender
     {
         /// <summary>
         /// Retorna a hora no formato HH:MM:SS
         /// </summary>
-        /// <param name="hora"></param>
-        /// <returns></returns>
-        public static string ToStringTimer(this DateTime hora)
+        /// <example>
+        /// <code>
+        /// using RVBConsulting.Library.Common;
+        /// 
+        /// public class ExemploDateTimeExtender
+        /// {
+        ///     public void BuscaHora()
+        ///     {
+        ///         var dataAtual = DateTime.Now;
+        ///         var dataAtualHora = dataAtual.ToStringTimer();
+        ///         
+        ///         Console.Writeline(dataAtualHora);
+        ///     }
+        /// }
+        /// </code>
+        /// </example>
+        /// <param name="date">Valor do tipo DateTime</param>
+        /// <returns>Retorna a hora no ormato HH:mm:ss</returns>
+        public static string ToStringTimer(this DateTime date)
         {
             string results;
-            results = string.Format("{0:T}", hora);
-            //results += ":" + string.Format("{0:MM}", hora.Minute);
-            //results += ":" + string.Format("{0:ss}", hora.Second);
+            results = string.Format("{0:T}", date);
 
             return results;
         }
@@ -25,8 +39,24 @@ namespace RVBConsulting.Library.Common
         /// <summary>
         /// Retorna a data com o mês por extenso
         /// </summary>
-        /// <param name="date"></param>
-        /// <returns></returns>
+        /// <example>
+        /// <code>
+        /// using RVBConsulting.Library.Common;
+        /// 
+        /// public class ExemploDateTimeExtender
+        /// {
+        ///     public void DataMesporExtenso()
+        ///     {
+        ///         var dataAtual = DateTime.Now;
+        ///         var dataAtualExtenso = dataAtual.GetExtensiceMonth();
+        ///         
+        ///         Console.Writeline(dataAtualExtenso);
+        ///     }
+        /// }
+        /// </code>
+        /// </example>
+        /// <param name="date">Valor do tipo DateTime</param>
+        /// <returns>Example: 01 de Janeiro de 1990</returns>
         public static string GetExtensiceMonth(this DateTime date)
         {
             string results = DateTime.Now.ToShortDateString();
@@ -39,15 +69,31 @@ namespace RVBConsulting.Library.Common
         /// <summary>
         /// Obter Saudações
         /// </summary>
-        /// <param name="dt"></param>
-        /// <returns></returns>
-        public static string GetSalutation(this DateTime dt)
+        /// <example>
+        /// <code>
+        /// using RVBConsulting.Library.Common;
+        /// 
+        /// public class ExemploDateTimeExtender
+        /// {
+        ///     public void SaudacaoData()
+        ///     {
+        ///         var dataAtual = DateTime.Now;
+        ///         var dataAtualSaudacao = dataAtual.GetSalutation();
+        ///         
+        ///         Console.Writeline(dataAtualSaudacao);
+        ///     }
+        /// }
+        /// </code>
+        /// </example>
+        /// <param name="date">Valor do tipo DateTime</param>
+        /// <returns>Retorna Bom Dia, Boa Tarde ou Boa Noite</returns>
+        public static string GetSalutation(this DateTime date)
         {
             string results = string.Empty;
 
-            if (dt.Hour >= 0 && (dt.Hour <= 12 && dt.Minute <= 59))
+            if (date.Hour >= 0 && (date.Hour <= 12 && date.Minute <= 59))
                 results = "Bom dia";
-            else if (dt.Hour >= 13 && (dt.Hour <= 17 && dt.Minute <= 59))
+            else if (date.Hour >= 13 && (date.Hour <= 17 && date.Minute <= 59))
                 results = "Boa Tarde";
             else
                 results = "Boa Noite";
@@ -58,8 +104,24 @@ namespace RVBConsulting.Library.Common
         /// <summary>
         /// Inverte data
         /// </summary>
-        /// <param name="date"></param>
-        /// <returns></returns>
+        /// <example>
+        /// <code>
+        /// using RVBConsulting.Library.Common;
+        /// 
+        /// public class ExemploDateTimeExtender
+        /// {
+        ///     public void InverteData()
+        ///     {
+        ///         var dataAtual = DateTime.Now;
+        ///         var dataAtualInvertida = dataAtual.ReverseDate();
+        ///         
+        ///         Console.Writeline(dataAtualInvertida);
+        ///     }
+        /// }
+        /// </code>
+        /// </example>
+        /// <param name="date">Valor do tipo DateTime</param>
+        /// <returns>Retorna o valor Invertido</returns>
         public static int ReverseDate(this DateTime date)
         {
             int results = 0;

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVBConsulting.Library.Commo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{47EC7F32-22A9-471C-9F7D-AAC300350E55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVBConsulting.Library.Common.TestsUnits", "RVBConsulting.Library.Common.TestsUnits\RVBConsulting.Library.Common.TestsUnits.csproj", "{7FAE28EF-71D6-42D4-92A1-E07B5C725A43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 		{0437B3B5-80FD-406E-AF86-7186B998F583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0437B3B5-80FD-406E-AF86-7186B998F583}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0437B3B5-80FD-406E-AF86-7186B998F583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAE28EF-71D6-42D4-92A1-E07B5C725A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAE28EF-71D6-42D4-92A1-E07B5C725A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAE28EF-71D6-42D4-92A1-E07B5C725A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAE28EF-71D6-42D4-92A1-E07B5C725A43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0437B3B5-80FD-406E-AF86-7186B998F583} = {47EC7F32-22A9-471C-9F7D-AAC300350E55}
+		{7FAE28EF-71D6-42D4-92A1-E07B5C725A43} = {47EC7F32-22A9-471C-9F7D-AAC300350E55}
 	EndGlobalSection
 EndGlobal
