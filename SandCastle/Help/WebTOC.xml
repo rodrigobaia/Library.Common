@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="3ea31cad-eb17-4e43-8847-5ebed2123ebc" Title="RVBConsulting.Library.Common" Url="html/N_RVBConsulting_Library_Common.htm">
-    <HelpTOCNode Id="8ce52bdf-7c3f-475a-a424-cc85eb49f5d2" Title="CryptographyExtender Class" Url="html/T_RVBConsulting_Library_Common_CryptographyExtender.htm">
-      <HelpTOCNode Id="55e46e3c-05dc-499e-8e4c-e06669cc7061" Title="CryptographyExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_CryptographyExtender.htm">
+  <HelpTOCNode Id="eac50719-9b9f-441c-9081-62c6b3f1f6c1" Title="RVBConsulting.Library.Common" Url="html/N_RVBConsulting_Library_Common.htm">
+    <HelpTOCNode Id="03d4be75-1514-4fbc-add9-9f802d637d6f" Title="CryptographyExtender Class" Url="html/T_RVBConsulting_Library_Common_CryptographyExtender.htm">
+      <HelpTOCNode Id="fb96343d-d5e7-4471-8fb6-6af533b4e7e6" Title="CryptographyExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_CryptographyExtender.htm">
         <HelpTOCNode Title="Decrypt Method " Url="html/M_RVBConsulting_Library_Common_CryptographyExtender_Decrypt.htm" />
         <HelpTOCNode Title="Encrypt Method " Url="html/M_RVBConsulting_Library_Common_CryptographyExtender_Encrypt.htm" />
         <HelpTOCNode Title="EncryptHash Method " Url="html/M_RVBConsulting_Library_Common_CryptographyExtender_EncryptHash.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="CryptProvider Enumeration" Url="html/T_RVBConsulting_Library_Common_CryptProvider.htm" />
-    <HelpTOCNode Id="0d50c9eb-eb23-4c34-922d-12f4279b63f5" Title="CurrencyWritenExtensiveExtender Class" Url="html/T_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender.htm">
-      <HelpTOCNode Id="1ff2945a-fcc9-4e27-9378-23afaebd0a5f" Title="CurrencyWritenExtensiveExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender.htm">
+    <HelpTOCNode Id="cc57ec76-ac99-4d30-a688-49f2de24604d" Title="CurrencyWritenExtensiveExtender Class" Url="html/T_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender.htm">
+      <HelpTOCNode Id="ce3f139a-da5d-499a-abc2-de17d98c478b" Title="CurrencyWritenExtensiveExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender.htm">
         <HelpTOCNode Title="ExtensiceNumber Method " Url="html/M_RVBConsulting_Library_Common_CurrencyWritenExtensiveExtender_ExtensiceNumber.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e774f8a8-990a-4fac-bca3-b9545381820a" Title="DateTimeExtender Class" Url="html/T_RVBConsulting_Library_Common_DateTimeExtender.htm">
-      <HelpTOCNode Id="69f9b40e-452f-414e-8f3d-74932a5f7abd" Title="DateTimeExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_DateTimeExtender.htm">
+    <HelpTOCNode Id="d5392396-6f5a-451b-8ecf-b86065da1b92" Title="DateTimeExtender Class" Url="html/T_RVBConsulting_Library_Common_DateTimeExtender.htm">
+      <HelpTOCNode Id="75ab71ad-3946-40c3-bd47-46cb41624074" Title="DateTimeExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_DateTimeExtender.htm">
         <HelpTOCNode Title="GetExtensiceMonth Method " Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_GetExtensiceMonth.htm" />
         <HelpTOCNode Title="GetSalutation Method " Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_GetSalutation.htm" />
         <HelpTOCNode Title="ReverseDate Method " Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_ReverseDate.htm" />
         <HelpTOCNode Title="ToStringTimer Method " Url="html/M_RVBConsulting_Library_Common_DateTimeExtender_ToStringTimer.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e4447f57-4ecb-4dfa-90d2-1d82d7252365" Title="DetailsNetworkExtender Class" Url="html/T_RVBConsulting_Library_Common_DetailsNetworkExtender.htm">
-      <HelpTOCNode Id="3d8cede9-0b51-4da1-94f6-ec1912fbb495" Title="DetailsNetworkExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_DetailsNetworkExtender.htm">
+    <HelpTOCNode Id="6ee5182b-3121-4c11-8ddf-f7954ba84fce" Title="DetailsNetworkExtender Class" Url="html/T_RVBConsulting_Library_Common_DetailsNetworkExtender.htm">
+      <HelpTOCNode Id="454d73b9-7ab7-47b7-a321-e5423cbbda06" Title="DetailsNetworkExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_DetailsNetworkExtender.htm">
         <HelpTOCNode Title="IpLocal Method " Url="html/M_RVBConsulting_Library_Common_DetailsNetworkExtender_IpLocal.htm" />
         <HelpTOCNode Title="MacAddress Method " Url="html/M_RVBConsulting_Library_Common_DetailsNetworkExtender_MacAddress.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="bb5a8982-de8d-42ab-b89c-54bc38239edf" Title="DetailsTerminal Class" Url="html/T_RVBConsulting_Library_Common_DetailsTerminal.htm">
-      <HelpTOCNode Id="02fe602b-c0bd-4105-842b-1ce22c969f3f" Title="DetailsTerminal Properties" Url="html/Properties_T_RVBConsulting_Library_Common_DetailsTerminal.htm">
+    <HelpTOCNode Id="9c4680ec-f80d-47ab-b44e-6eaacb61dde1" Title="DetailsTerminal Class" Url="html/T_RVBConsulting_Library_Common_DetailsTerminal.htm">
+      <HelpTOCNode Id="d006713a-9f11-4390-bcb9-2600938efd1f" Title="DetailsTerminal Properties" Url="html/Properties_T_RVBConsulting_Library_Common_DetailsTerminal.htm">
         <HelpTOCNode Title="DriveRoot Property " Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_DriveRoot.htm" />
         <HelpTOCNode Title="HardDisk Property " Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_HardDisk.htm" />
         <HelpTOCNode Title="Network Property " Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_Network.htm" />
@@ -41,17 +41,17 @@
         <HelpTOCNode Title="VersionEx Property " Url="html/P_RVBConsulting_Library_Common_DetailsTerminal_VersionEx.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="75797528-7b61-4664-aa3b-d39e6dd02158" Title="EnumExtender Class" Url="html/T_RVBConsulting_Library_Common_EnumExtender.htm">
+    <HelpTOCNode Id="0d9dbb30-da48-4ffa-801a-e5a938ef4ecb" Title="EnumExtender Class" Url="html/T_RVBConsulting_Library_Common_EnumExtender.htm">
       <HelpTOCNode Title="EnumExtender Constructor " Url="html/M_RVBConsulting_Library_Common_EnumExtender__ctor.htm" />
-      <HelpTOCNode Id="f896e8a6-fd1c-4fc0-bfcd-2039111618fb" Title="EnumExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_EnumExtender.htm">
+      <HelpTOCNode Id="fa356932-6ecc-48e2-b1ba-3a0a4d258598" Title="EnumExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_EnumExtender.htm">
         <HelpTOCNode Title="GetDescription Method " Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetDescription.htm" />
         <HelpTOCNode Title="GetDescriptions Method " Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetDescriptions.htm" />
         <HelpTOCNode Title="GetExtendedValue Method " Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetExtendedValue.htm" />
         <HelpTOCNode Title="GetExtendedValues Method " Url="html/M_RVBConsulting_Library_Common_EnumExtender_GetExtendedValues.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9da5c3de-9e95-4e37-ad87-82a466f24c28" Title="EnumExtenderItemAttribute Class" Url="html/T_RVBConsulting_Library_Common_EnumExtenderItemAttribute.htm">
-      <HelpTOCNode Id="409d080b-a5cd-438c-b3dc-1a3160502646" Title="EnumExtenderItemAttribute Constructor " Url="html/Overload_RVBConsulting_Library_Common_EnumExtenderItemAttribute__ctor.htm">
+    <HelpTOCNode Id="e2a0ef6b-852d-4e6e-a915-753e0571fa88" Title="EnumExtenderItemAttribute Class" Url="html/T_RVBConsulting_Library_Common_EnumExtenderItemAttribute.htm">
+      <HelpTOCNode Id="e20aea16-8a8f-4d23-afa8-30e144bb43fd" Title="EnumExtenderItemAttribute Constructor " Url="html/Overload_RVBConsulting_Library_Common_EnumExtenderItemAttribute__ctor.htm">
         <HelpTOCNode Title="EnumExtenderItemAttribute Constructor (String)" Url="html/M_RVBConsulting_Library_Common_EnumExtenderItemAttribute__ctor.htm" />
         <HelpTOCNode Title="EnumExtenderItemAttribute Constructor (String, String)" Url="html/M_RVBConsulting_Library_Common_EnumExtenderItemAttribute__ctor_1.htm" />
         <HelpTOCNode Title="EnumExtenderItemAttribute Constructor (String, Type)" Url="html/M_RVBConsulting_Library_Common_EnumExtenderItemAttribute__ctor_3.htm" />
@@ -60,10 +60,10 @@
       <HelpTOCNode Title="EnumExtenderItemAttribute Methods" Url="html/Methods_T_RVBConsulting_Library_Common_EnumExtenderItemAttribute.htm" />
       <HelpTOCNode Title="EnumExtenderItemAttribute Properties" Url="html/Properties_T_RVBConsulting_Library_Common_EnumExtenderItemAttribute.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a7bdb4e3-6341-45ee-a8d7-def42f4ac072" Title="HardDisk Class" Url="html/T_RVBConsulting_Library_Common_HardDisk.htm">
+    <HelpTOCNode Id="9c98e650-da81-4008-99a3-22a77e607769" Title="HardDisk Class" Url="html/T_RVBConsulting_Library_Common_HardDisk.htm">
       <HelpTOCNode Title="HardDisk Constructor " Url="html/M_RVBConsulting_Library_Common_HardDisk__ctor.htm" />
       <HelpTOCNode Title="HardDisk Methods" Url="html/Methods_T_RVBConsulting_Library_Common_HardDisk.htm" />
-      <HelpTOCNode Id="aa19d01d-8a4e-45c5-b06a-53548387b1a9" Title="HardDisk Properties" Url="html/Properties_T_RVBConsulting_Library_Common_HardDisk.htm">
+      <HelpTOCNode Id="266d824e-409c-4034-8014-3524f3adba6a" Title="HardDisk Properties" Url="html/Properties_T_RVBConsulting_Library_Common_HardDisk.htm">
         <HelpTOCNode Title="Drive Property " Url="html/P_RVBConsulting_Library_Common_HardDisk_Drive.htm" />
         <HelpTOCNode Title="Modelo Property " Url="html/P_RVBConsulting_Library_Common_HardDisk_Modelo.htm" />
         <HelpTOCNode Title="Serial Property " Url="html/P_RVBConsulting_Library_Common_HardDisk_Serial.htm" />
@@ -71,21 +71,21 @@
         <HelpTOCNode Title="Volume Property " Url="html/P_RVBConsulting_Library_Common_HardDisk_Volume.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="cf068ab7-a69d-47f4-9826-7bca35eadfa7" Title="StringExtender Class" Url="html/T_RVBConsulting_Library_Common_StringExtender.htm">
-      <HelpTOCNode Id="b7558298-7bae-4e59-971d-e86314c9cdd2" Title="StringExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_StringExtender.htm">
+    <HelpTOCNode Id="11f8e822-e270-48f6-b4eb-c8e011bdd474" Title="StringExtender Class" Url="html/T_RVBConsulting_Library_Common_StringExtender.htm">
+      <HelpTOCNode Id="0092f355-0bc3-48eb-884b-e2fda04cdff4" Title="StringExtender Methods" Url="html/Methods_T_RVBConsulting_Library_Common_StringExtender.htm">
         <HelpTOCNode Title="CompleteText Method " Url="html/M_RVBConsulting_Library_Common_StringExtender_CompleteText.htm" />
         <HelpTOCNode Title="Left Method " Url="html/M_RVBConsulting_Library_Common_StringExtender_Left.htm" />
-        <HelpTOCNode Id="212feb56-5083-4e30-bb2c-ccd96ed26edd" Title="Mid Method " Url="html/Overload_RVBConsulting_Library_Common_StringExtender_Mid.htm">
+        <HelpTOCNode Id="9671348d-344a-45d0-aed7-9e98e2de8a3e" Title="Mid Method " Url="html/Overload_RVBConsulting_Library_Common_StringExtender_Mid.htm">
           <HelpTOCNode Title="Mid Method (String, Int32)" Url="html/M_RVBConsulting_Library_Common_StringExtender_Mid.htm" />
           <HelpTOCNode Title="Mid Method (String, Int32, Int32)" Url="html/M_RVBConsulting_Library_Common_StringExtender_Mid_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="89eb1909-3999-4aaf-bf9b-02ec91d174b6" Title="PegaPrimeiraSentenca Method " Url="html/Overload_RVBConsulting_Library_Common_StringExtender_PegaPrimeiraSentenca.htm">
+        <HelpTOCNode Id="c2af1818-a482-4837-881e-0f27371845e2" Title="PegaPrimeiraSentenca Method " Url="html/Overload_RVBConsulting_Library_Common_StringExtender_PegaPrimeiraSentenca.htm">
           <HelpTOCNode Title="PegaPrimeiraSentenca Method (String)" Url="html/M_RVBConsulting_Library_Common_StringExtender_PegaPrimeiraSentenca.htm" />
           <HelpTOCNode Title="PegaPrimeiraSentenca Method (String, String)" Url="html/M_RVBConsulting_Library_Common_StringExtender_PegaPrimeiraSentenca_1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="PegaUltimaString Method " Url="html/M_RVBConsulting_Library_Common_StringExtender_PegaUltimaString.htm" />
         <HelpTOCNode Title="Right Method " Url="html/M_RVBConsulting_Library_Common_StringExtender_Right.htm" />
-        <HelpTOCNode Id="4a4c1ce1-4d59-4989-a6f5-fb5243def260" Title="TiraUltimaString Method " Url="html/Overload_RVBConsulting_Library_Common_StringExtender_TiraUltimaString.htm">
+        <HelpTOCNode Id="bfea125f-89cb-4fe5-bf97-0cb579bbfea1" Title="TiraUltimaString Method " Url="html/Overload_RVBConsulting_Library_Common_StringExtender_TiraUltimaString.htm">
           <HelpTOCNode Title="TiraUltimaString Method (String)" Url="html/M_RVBConsulting_Library_Common_StringExtender_TiraUltimaString.htm" />
           <HelpTOCNode Title="TiraUltimaString Method (String, String)" Url="html/M_RVBConsulting_Library_Common_StringExtender_TiraUltimaString_1.htm" />
         </HelpTOCNode>
