@@ -1,16 +1,23 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <id>RVBConsulting.Library.Common</id>
+    <version>1.0.5</version>
+    <title>RVBConsulting.Library.Common</title>
+    <authors>Rodrigo Vieira Baia</authors>
+    <owners>Rodrigo Vieira Baia</owners>
     <licenseUrl>https://github.com/rodrigobaia/Library.Common</licenseUrl>
     <projectUrl>https://github.com/rodrigobaia/Library.Common</projectUrl>
     <!-- <iconUrl></iconUrl> -->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>This version includes the following features.
+* Write currency in full
+* Write a full month
+* Get good morning, good afternoon and good evening greetings.
+* Encryption and Decryption
+* Network information
+* Information regarding the terminal / Computer
+* Assignment on Enumerators objects</description>
     <releaseNotes>This version includes the following features.
 * Write currency in full
 * Write a full month
